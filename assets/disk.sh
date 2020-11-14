@@ -35,5 +35,5 @@ mkdir /run/media/$USER/SONY/transfer
 cp $GAMES /run/media/$USER/SONY/transfer
 
 ## $GAMES ==> .bin and .cue files, no need to save cover images project eris takes care of the rest.
-
+## https://www.consoleroms.com/
 # Enjoy!
